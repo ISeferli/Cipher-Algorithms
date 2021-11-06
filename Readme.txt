@@ -1,7 +1,7 @@
 ------------------------
 Assignment 1
 Course: HPY 414
-Seferli Iliodora 2017030094
+Seferli Iliodora
 ------------------------
 
 ------------------------
