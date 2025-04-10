@@ -15,7 +15,7 @@ Each of these algorithms has been implemented with the aim of exploring basic cr
 - **Course**: Cyber Security
 - **Institution**: Technical University of Crete (TUC)
 - **Department**: School of Electrical and Computer Engineering
-- **Semester**: Spring 2021
+- **Semester**: Fall 2020
 - **Project Type**: Individual assignment
 - **Language**: C
 - **Platform**: Linux
