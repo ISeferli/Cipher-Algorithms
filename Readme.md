@@ -24,11 +24,13 @@ Each of these algorithms has been implemented with the aim of exploring basic cr
 
 ## 🧱 File Structure
 
-- simple_crypto.c  Library with all the cipher algorithms implemented
-- simple_crypto.h  C Function declarations of the algorithms
-- demo.c           A demo program where the functions are used
-- Makefile         Makefile of the program
-- Readme.txt       This File
+| File Name           | Description                                              |
+|---------------------|----------------------------------------------------------|
+| **simple_crypto.c**  | Library containing the implementations of cipher algorithms |
+| **simple_crypto.h**  | Header file with function declarations for the algorithms |
+| **demo.c**           | Demo program that demonstrates the use of the cipher functions |
+| **Makefile**         | Makefile for building the project                        |
+| **Readme.txt**       | This file                                                |
 
 ---
 
